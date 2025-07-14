@@ -2,7 +2,7 @@
 title: Introduction to Qubic
 sidebar_label: Home
 slug: /
-hide_sidebar: false
+hide_sidebar: true
 ---
 <head>
   <title>Qubic Docs</title>

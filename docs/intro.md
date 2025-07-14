@@ -1,6 +1,6 @@
 ---
 title: Introduction to Qubic
-sidebar_label: Home
+sidebar_label: overview
 ---
 <head>
   <title>Qubic Docs</title>
