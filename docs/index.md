@@ -1,6 +1,8 @@
 ---
 title: Introduction to Qubic
 sidebar_label: Home
+slug: /
+hide_sidebar: false
 ---
 <head>
   <title>Qubic Docs</title>
