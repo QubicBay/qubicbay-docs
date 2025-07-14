@@ -85,11 +85,6 @@ const config: Config = {
           position: 'left',
           label: 'FAQ',
         },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
@@ -99,8 +94,16 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Overview',
+              to: '/overview/project-overview',
+            },
+            {
+              label: 'Explore',
+              to: '/Explore Qbay/a-guide-to-nft-trading-platforms',
+            },
+            {
+              label: 'FAQ',
+              to: '/FAQ',
             },
           ],
         },
@@ -108,16 +111,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/your-invite-link',
             },
             {
               label: 'X',
-              href: 'https://x.com/docusaurus',
+              href: 'https://x.com/your-profile',
             },
           ],
         },
@@ -130,12 +129,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/your-org/your-repo',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Qubicbay.io`,
     },
     prism: {
       theme: prismThemes.github,
