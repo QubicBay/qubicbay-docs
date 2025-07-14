@@ -2,13 +2,26 @@
 sidebar_label: 'Package'
 ---
 
+# Package
 
-# Fee Structure
+### What are packages?
 
-#### NFT Resale Revenue Distribution
+**Packages** are prepaid bundles of minting slots that creators must purchase in order to launch a new NFT collection on the Marketplace. \
+Each slot represents one NFT that can be minted as part of the collection.
 
-For each resale of NFTs on the secondary market, the Marketplace will retain a percentage of the total resale equal to **3%**, which will be distributed as follows:\
+### Slots
 
+_To launch a new NFT collection on the QubicBay Marketplace:_
 
-* **2%** will be retained by the Marketplace to cover management costs and future developments
-* **1%**  will be sent to shareholders (check 'shareholder revenues' paragraph for more details)
+* Creators are required to purchase a minting package corresponding to the number of NFTs in the collection.
+* The cost of the package is determined by the total number of NFTs to be minted.
+
+| Number of NFTs   | Package Price (in $CFB, equivalent to USDT) |
+|------------------|---------------------------------------------|
+| 1,000 NFTs       | 200 USDT worth of $CFB                      |
+| 10,000 NFTs      | 2000 USDT worth of $CFB                     |
+
+### Earning
+
+When creating a new collection, creators have the option to set a royalty fee—up to a maximum of 10%—to be withheld from future resales of the NFTs within that collection. \
+This configurable percentage helps support the ongoing work of creators and incentivizes continued engagement with the platform.

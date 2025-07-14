@@ -13,72 +13,24 @@ hide_sidebar: true
   <meta property="og:url" content="https://docs.qubic.org" />
 </head>
 
-# Welcome to Qubic Documentation
+# 👋 Welcome to Qubicbay
 
-Qubic is an innovative platform designed to revolutionise the world of decentralised computing and finance through its quorum-based computer (QBC) system. Whether you're a developer, researcher, or enthusiast, this documentation will guide you through everything you need to know to start building and contributing to the Qubic ecosystem.
+### Introduction to Qubicbay
+[Qubicbay](https://qubicbay.io) is a next-generation NFT marketplace where creativity, community, and blockchain come together. Whether you're a creator minting digital art or a collector searching for unique assets, QubicBay gives you the tools to explore and own a piece of the digital revolution.
 
-## Getting Started
+![Qubicbay Banner](/img/qubicbay/OG_3.png)
 
-Ready to dive in? Start here to learn the basics and set up your environment:
+### Understanding the Qubicbay NFT Marketplace
 
-- [Introduction to Qubic](overview/introduction.md): Get a high-level overview of what Qubic is and how it works.
+The Qubicbay NFT marketplace enables creators to tokenize their art, music, games, and more, allowing for ownership verification and transfer.
 
-- [Create your Qubic Wallet](learn/invest.md): Learn about the various ways to invest in Qubic, including cryptocurrency exchanges and creating a Qubic wallet.
+QubicBay is a decentralized NFT marketplace that:
 
-## Learn
+* Runs on blockchain technology for **secure** and transparent transactions.
+* Uses **QUBIC, CFB** as its main token for minting, buying, and selling NFTs.
+* Allows anyone to **create, trade, and collect** digital assets in just a few clicks.
+* Supports **verified collections** to ensure authenticity and trust.
 
-Expand your knowledge of the Qubic platform:
+### Conclusion
 
-- [Tokenomics](learn/tokenomics.md): Understand the economic model and utility of Qubic Units (QUs) in the ecosystem.
-
-- [Useful Proof of Work (UPoW)](learn/upow.md): Discover how uPoW underpins the security and efficiency of the system.
-
-- [Quorum](learn/quorum.md): Explore how Qubic's quorum-based computer system operates.
-
-- [Aigarth](learn/aigarth.md): Learn about Aigarth being developed on the Qubic network.
-
-## Developer Resources
-
-Everything you need to start developing on Qubic:
-
-- [Become a Developer](developers/intro.md): Your starting guide to navigate Qubic development resources.
-- [Qubic Dev Kit](developers/dev-kit.md): Set up your local testnet and deploy smart contracts.
-- [Testnet Resources](developers/testnet-resources.md): Access faucets and test seeds for development.
-
-## Tutorials
-- [Tutorials](developers/tutorials.md): Comprehensive guides and examples to help you get started with Qubic development.
-
-## Clients
-- [Qubic Node](developers/qubic-node.md): Full Qubic node implementation.
-- [Qubic CLI](developers/qubic-cli.md): Command-line interface for Qubic.
-- [Qubic RPC](api/rpc.md): Remote Procedure Call interface for Qubic.
-
-## Integration
-- [Wallet Integration](api/wallet-integrations.md): Guides and resources for integrating Qubic wallets into your applications.
-
-## Libraries
-- [Java Libraries](developers/library-java.md): Libraries for Java development.
-- [Typescript Libraries](developers/library-typescript): Libraries for Typescript development.
-- [Go Libraries](developers/library-go.md): Libraries for Go development.
-- [Http Libraries](developers/library-http.md): Libraries for HTTP-based development.
-- [C# Libraries](developers/library-csharp.md): Libraries for C# development.
-
-## Development Programs
-- [Grants Program](developers/grants.md): Foster development of high-quality smart contracts and solutions.
-- [Bug Bounty Program](developers/bug-bounty.md): Contribute to Qubic's security by finding and reporting bugs.
-
-## Contribute
-
-Qubic is an open-source project that thrives on community involvement. If you’re interested in contributing, here’s how you can get started:
-
-- [Contribution Guide](developers/contribute): Learn how to contribute to Qubic’s codebase or documentation.
-
-## Stay Updated
-
-Keep up with the latest news, updates, and development milestones:
-
-- [Qubic Blog](https://blog.qubic.org)
-
-- [Join our Discord](https://discord.gg/qubic)
-
-- [GitHub Repository](https://github.com/qubic)
+We believe that an NFT Marketplace is necessary to bridge the gap between Qubic, understood as an ecosystem, and the most famous and established blockchains. NFTs have the ability to attract that segment of more casual users, i.e. that user necessary to become mainstream. Furthermore, NFTs would also and above all pave the way for artists who would be pushed to create on an emerging ecosystem, creating new life and new possibilities for future developments. This is the opportunity to show to the crypto space the potential of our ecosystem!

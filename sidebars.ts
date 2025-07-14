@@ -27,6 +27,7 @@ const sidebars: SidebarsConfig = {
         'overview/functions-specifications',
         'overview/fee-structure',
         'overview/shareholder-revenues',
+        'overview/coin',
       ],
     },
     'overview/package',

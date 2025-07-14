@@ -29,16 +29,25 @@ function HomepageHeader() {
   );
 }
 
-export default function Home(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
+export default function ImageGrid() {
+  const images = [
+    "/img/qubicbay/Screenshot_1.png",
+    "/img/qubicbay/Screenshot_2.png",
+    "/img/qubicbay/Screenshot_3.png",
+    "/img/qubicbay/Screenshot_4.png",
+    "/img/qubicbay/Screenshot_5.png",
+    "/img/qubicbay/Screenshot_6.png",
+  ];
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      {/* <HomepageHeader /> */}
-      <main>
-        {/* <HomepageFeatures /> */}
-      </main>
-    </Layout>
+    <div style={{
+      display: "grid",
+      gridTemplateColumns: "repeat(3, 1fr)",
+      gap: "16px",
+      justifyItems: "center"
+    }}>
+      {images.map((src, idx) => (
+        <img key={idx} src={src} alt={`Screenshot ${idx+1}`} width={250} />
+      ))}
+    </div>
   );
 }
