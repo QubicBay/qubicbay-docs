@@ -18,12 +18,40 @@ const sidebars: SidebarsConfig = {
 
   // But you can create a sidebar manually
   
-  tutorialSidebar: [
+  overviewSidebar: [
+    'overview/project-overview',
     {
       type: 'category',
-      label: 'Overview',
-      items: ['intro','tutorial-basics/create-a-document'],
+      label: 'Functionality',
+      items: [
+        'overview/functions-specifications',
+        'overview/fee-structure',
+        'overview/shareholder-revenues',
+      ],
     },
+    'overview/package',
+  ],
+
+  exploreSidebar: [
+    'Explore Qbay/a-guide-to-nft-trading-platforms',
+    {
+      type: 'category',
+      label: 'How to',
+      items: [
+        'Explore Qbay/connect your wallet',
+        'Explore Qbay/create a collection',
+        'Explore Qbay/create NFT',
+        'Explore Qbay/List NFTs',
+        'Explore Qbay/Buy NFTs',
+        'Explore Qbay/Sell NFTs',
+        'Explore Qbay/Exchange',
+        'Explore Qbay/Auction',
+      ],
+    },
+  ],
+
+  faqSidebar: [
+    'FAQ/FAQ'
   ],
    
 };

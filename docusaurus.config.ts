@@ -69,9 +69,21 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'overviewSidebar',
           position: 'left',
-          label: 'Guide',
+          label: 'Overview',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'exploreSidebar',
+          position: 'left',
+          label: 'Explore',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'faqSidebar',
+          position: 'left',
+          label: 'FAQ',
         },
         {
           href: 'https://github.com/facebook/docusaurus',
