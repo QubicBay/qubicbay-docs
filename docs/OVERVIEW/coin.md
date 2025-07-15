@@ -3,7 +3,7 @@ sidebar_label: 'Coins/Tokens'
 ---
 
 # Coins/Tokens accepted on the Marketplace
-:::info
+:::tip
 Both **$CFB** and **$Qubic** will be accepted on the Marketplace, and both can be used by users to buy or sell NFTs on the secondary market.
 
 However, there are some exclusive functions reserved for each:
