@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.qubicbay.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -99,11 +99,11 @@ const config: Config = {
             },
             {
               label: 'Explore',
-              to: '/Explore Qbay/a-guide-to-nft-trading-platforms',
+              to: '/explore/a-guide-to-nft-trading-platforms',
             },
             {
               label: 'FAQ',
-              to: '/FAQ',
+              to: '/faq',
             },
           ],
         },
@@ -125,7 +125,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/your-org/your-repo',
+              href: 'https://github.com/QubicBay',
             },
           ],
         },

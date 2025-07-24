@@ -34,25 +34,25 @@ const sidebars: SidebarsConfig = {
   ],
 
   exploreSidebar: [
-    'Explore Qbay/a-guide-to-nft-trading-platforms',
+    'explore/a-guide-to-nft-trading-platforms',
     {
       type: 'category',
       label: 'How to',
       items: [
-        'Explore Qbay/connect your wallet',
-        'Explore Qbay/create a collection',
-        'Explore Qbay/create NFT',
-        'Explore Qbay/List NFTs',
-        'Explore Qbay/Buy NFTs',
-        'Explore Qbay/Sell NFTs',
-        'Explore Qbay/Exchange',
-        'Explore Qbay/Auction',
+        'explore/connect-your-wallet',
+        'explore/create-a-collection',
+        'explore/create-nft',
+        'explore/list-nfts',
+        'explore/buy-nfts',
+        'explore/sell-nfts',
+        'explore/exchange',
+        'explore/auction',
       ],
     },
   ],
 
   faqSidebar: [
-    'FAQ/FAQ'
+    'faq/faq'
   ],
    
 };
