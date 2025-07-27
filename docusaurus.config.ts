@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Qubicbay',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -112,11 +112,11 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discord.gg/your-invite-link',
+              href: 'https://discord.com/invite/5rM2bWksDq',
             },
             {
               label: 'X',
-              href: 'https://x.com/your-profile',
+              href: 'https://x.com',
             },
           ],
         },
