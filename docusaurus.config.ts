@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Qubicbay',
   tagline: 'Qubicbay are cool',
-  favicon: 'img/logo.png',
+  favicon: 'img/og.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
