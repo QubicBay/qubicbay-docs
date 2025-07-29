@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'functions-specifications'
+sidebar_label: 'Functions Specifications'
 ---
 
 # Functions Specifications

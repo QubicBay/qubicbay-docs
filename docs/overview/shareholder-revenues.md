@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'shareholder-revenues'
+sidebar_label: 'Shareholder revenues'
 ---
 
 # Shareholder revenues

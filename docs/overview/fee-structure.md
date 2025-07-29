@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'fee-structure'
+sidebar_label: 'Fee structure'
 ---
 
 # Fee Structure
