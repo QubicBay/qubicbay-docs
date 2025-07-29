@@ -59,7 +59,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/logo.png',
+    image: 'img/og.png',
     navbar: {
       title: 'Qubicbay',
       logo: {
