@@ -44,7 +44,6 @@ const sidebars: SidebarsConfig = {
         'explore/create-nft',
         'explore/list-nfts',
         'explore/buy-nfts',
-        'explore/sell-nfts',
         'explore/exchange',
         'explore/auction',
       ],
