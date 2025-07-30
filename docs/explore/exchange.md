@@ -19,3 +19,5 @@ sidebar_label: 'Exchange'
 > You will see the exchanged NFT.
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_38.png)
+
+> Done

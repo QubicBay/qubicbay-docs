@@ -14,6 +14,8 @@ sidebar_label: 'List NFTs'
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_31.png)
 
+> Be sure to check the license items
+
 ![Qubicbay Banner](/img/qubicbay/Screenshot_32.png)
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_33.png)

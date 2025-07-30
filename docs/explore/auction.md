@@ -8,7 +8,11 @@ sidebar_label: 'Auction'
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_39.png)
 
+> Please enter the exact start and end dates of the auction.
+
 ![Qubicbay Banner](/img/qubicbay/Screenshot_41.png)
+
+> If you have successfully registered for the auction, you will see the image below.
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_42.png)
 
@@ -16,3 +20,4 @@ sidebar_label: 'Auction'
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_45.png)
 
+> Done
