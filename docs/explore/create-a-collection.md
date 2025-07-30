@@ -16,3 +16,8 @@ sidebar_label: 'Create a Collection'
 ![Qubicbay Banner](/img/qubicbay/Screenshot_11.png)
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_12.png)
+
+> Fill in each field correctly, then click the `Confirm` button and check in your personal account.
+
+![Qubicbay Banner](/img/qubicbay/Screenshot_27.png)
+

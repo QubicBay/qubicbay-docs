@@ -9,3 +9,5 @@ sidebar_label: 'Connect Your Wallet'
 ![Qubicbay Banner](/img/qubicbay/Screenshot_9.png)
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_25.png)
+
+![Qubicbay Banner](/img/qubicbay/Screenshot_26.png)
