@@ -21,3 +21,11 @@ sidebar_label: 'Create a Collection'
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_27.png)
 
+> You need to click on the collection you created and upload your assets
+
+![Qubicbay Banner](/img/qubicbay/Screenshot_28.png)
+
+![Qubicbay Banner](/img/qubicbay/Screenshot_29.png)
+
+> Done
+

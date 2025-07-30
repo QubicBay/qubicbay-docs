@@ -19,3 +19,5 @@ sidebar_label: 'Buy NFTs'
 > If you have enough money in your wallet to purchase the NFT, click the `Buy now`  button. Then, you will see that the NFT has been successfully purchased.
 
 ![Qubicbay Banner](/img/qubicbay/Screenshot_22.png)
+
+> Done

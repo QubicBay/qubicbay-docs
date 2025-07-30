@@ -10,4 +10,12 @@ sidebar_label: 'List NFTs'
 
 > Your NFT artwork is now successfully listed and showcased in the marketplace.
 
-![Qubicbay Banner](/img/qubicbay/Screenshot_15.png)
+![Qubicbay Banner](/img/qubicbay/Screenshot_30.png)
+
+![Qubicbay Banner](/img/qubicbay/Screenshot_31.png)
+
+![Qubicbay Banner](/img/qubicbay/Screenshot_32.png)
+
+![Qubicbay Banner](/img/qubicbay/Screenshot_33.png)
+
+> Done.
