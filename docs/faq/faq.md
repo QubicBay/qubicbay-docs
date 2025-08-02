@@ -31,7 +31,7 @@ Every time an NFT is traded on the secondary market, this fee is applied to the 
 
 
 <details>
-<summary>💸 Does the 3% fee apply to all sales or only secondary sales?</summary>
+<summary>🧾 Who pays the 3% fee, and in which currency?</summary>
 
 The **3% fee is paid by the seller**, not the buyer.
 
