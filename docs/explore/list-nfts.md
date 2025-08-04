@@ -10,8 +10,7 @@ Learn how to list your NFTs for trading on the QBay marketplace. This guide will
 
 Before listing your NFT, ensure you have:
 - A connected wallet with your NFTs
-- Sufficient funds for gas fees
-- Your NFT metadata and artwork ready
+- Sufficient funds for gas fees (if applicable)
 
 ## Step-by-Step Guide
 
@@ -33,7 +32,7 @@ Once in your account dashboard:
 When you've selected an NFT to list:
 
 1. **Click the "List" or "Sell" button** on your NFT
-2. **Set your price** in the preferred currency (ETH, MATIC, etc.)
+2. **Set your price** in Qubic
 3. **Choose listing duration** (if applicable)
 4. **Review listing details** carefully
 5. **Confirm the transaction** in your wallet
@@ -89,9 +88,9 @@ After confirming the transaction, your NFT will be processed and listed on the m
 ## Fees and Payments
 
 ### Marketplace Fees
-- Standard marketplace fee: 2.5%
+- Standard marketplace fee: 3%
 - Creator royalties: Up to 10%
-- Gas fees for blockchain transactions
+- Gas fees for blockchain transactions (if applicable)
 
 ### Payment Processing
 - Payments are processed automatically

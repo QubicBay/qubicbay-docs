@@ -20,7 +20,7 @@ Auctions allow you to sell your NFTs to the highest bidder within a specified ti
 2. **Set Auction Parameters**
    - **Start Date**: When the auction begins accepting bids
    - **End Date**: When the auction closes and the highest bidder wins
-   - **Minimum Bid**: Set a reserve price to ensure minimum value
+   - **Starting Price**: Set a reserve price to ensure minimum value
    - **Bid Increment**: Define how much each bid must increase by
 
    ![Auction Configuration](/img/qubicbay/Screenshot_41.png)
