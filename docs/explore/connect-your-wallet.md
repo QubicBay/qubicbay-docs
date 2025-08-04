@@ -61,7 +61,7 @@ Qubicbay supports the following wallet types:
 ### Need Help?
 
 If you encounter any issues during the wallet connection process, please:
-1. Check our [FAQ section](/docs/faq/faq)
+1. Check our [FAQ section](../faq/)
 2. Contact our support team
 3. Visit our community forums
 
@@ -74,4 +74,4 @@ If you encounter any issues during the wallet connection process, please:
 
 ---
 
-*Ready to start trading? Once your wallet is connected, you can explore our [NFT marketplace](/docs/explore/explore-qbay) and start trading!*
+*Ready to start trading? Once your wallet is connected, you can explore our [NFT marketplace](/explore/explore-qbay) and start trading!*

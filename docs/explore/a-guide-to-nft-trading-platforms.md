@@ -184,10 +184,10 @@ Built on Qubic's advanced blockchain technology, Qubicbay offers:
 Now that you have a comprehensive understanding of NFT trading platforms, you're ready to explore the exciting world of digital assets on Qubicbay!
 
 **Next Steps:**
-- [Connect Your Wallet](/docs/explore/connect-your-wallet)
-- [Explore the Marketplace](/docs/explore/explore-qbay)
-- [Create Your First NFT](/docs/explore/create-nft)
-- [Learn About Collections](/docs/explore/create-a-collection)
+- [Connect Your Wallet](/explore/connect-your-wallet)
+- [Explore the Marketplace](/explore/explore-qbay)
+- [Create Your First NFT](/explore/create-nft)
+- [Learn About Collections](/explore/create-a-collection)
 
 ---
 

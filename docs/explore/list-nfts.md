@@ -107,9 +107,9 @@ After confirming the transaction, your NFT will be processed and listed on the m
 
 ### Support
 If you encounter issues while listing your NFT:
-- Check the [FAQ section](/docs/faq/faq)
+- Check the [FAQ section](../faq/)
 - Contact support through the platform
-- Review the [platform overview](/docs/overview/project-overview)
+- Review the [platform overview](/overview/project-overview)
 
 ## Success!
 
@@ -117,4 +117,4 @@ Your NFT is now successfully listed and available for purchase in the QBay marke
 
 ---
 
-**Next Steps**: Learn about [buying NFTs](/docs/explore/buy-nfts) or explore [auction features](/docs/explore/auction).
+**Next Steps**: Learn about [buying NFTs](/explore/buy-nfts) or explore [auction features](/explore/auction).
