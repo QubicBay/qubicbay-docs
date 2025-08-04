@@ -43,8 +43,6 @@ Follow the prompts in your wallet to complete the connection process:
 Qubicbay supports the following wallet types:
 - **MetaMask** - Most popular Ethereum wallet
 - **WalletConnect** - Multi-wallet support
-- **Coinbase Wallet** - User-friendly interface
-- **Trust Wallet** - Mobile-first experience
 
 ## Troubleshooting
 
