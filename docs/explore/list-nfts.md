@@ -45,14 +45,6 @@ After confirming the transaction, your NFT will be processed and listed on the m
 
 ![Listing Confirmation](/img/qubicbay/Screenshot_47.png)
 
-### Step 5: Check License and Terms
-
-**Important**: Before finalizing your listing, be sure to review and understand the license terms and marketplace policies.
-
-![License Review](/img/qubicbay/Screenshot_48.png)
-
-![Terms and Conditions](/img/qubicbay/Screenshot_49.png)
-
 ## Listing Best Practices
 
 ### Pricing Strategy
