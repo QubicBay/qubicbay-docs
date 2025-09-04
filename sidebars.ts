@@ -42,6 +42,7 @@ const sidebars: SidebarsConfig = {
         'explore/connect-your-wallet',
         'explore/create-a-collection',
         'explore/create-nft',
+        'explore/drop-nft',
         'explore/list-nfts',
         'explore/buy-nfts',
         'explore/exchange',
