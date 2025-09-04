@@ -6,6 +6,64 @@ import TabItem from '@theme/TabItem';
 
 # Create a Collection
 
+## Preparatory Steps for Creators
+
+Before creating your NFT collection, you'll need to prepare your assets and metadata. Here are the essential steps to get ready:
+
+### Metadata Preparation
+
+Collection creators should prepare their data in advance to ensure a smooth creation process. Your collection metadata should include:
+
+- **Name**: A unique and memorable name for your collection
+- **Description**: Detailed information about your collection's theme, story, or concept
+- **Image**: A representative image that will be displayed as your collection's banner
+
+### NFT Metadata Structure
+
+Each NFT in your collection requires a metadata JSON file. This metadata is crucial because:
+
+- **Marketplaces only receive the metadata JSON file URI** (not the actual NFT image)
+- **The marketplace parses the metadata** to extract information including the image URL
+- **The `image` field is essential** - without it, marketplaces cannot display your NFT image
+
+#### Required Metadata Fields
+
+Your NFT metadata JSON must include these fields:
+
+```json
+{
+  "name": "NFT Name",
+  "description": "NFT Description",
+  "image": "https://ipfs.io/ipfs/your_image_CID",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ]
+}
+```
+
+**Critical Note**: The `image` field must contain the direct URL to your NFT image file. This is how marketplaces know where to fetch and display your NFT image. Without this field, users will see broken images or no images at all.
+
+### NFT Creation Tools
+
+To create the NFT images and metadata for your collection, you can use these popular platforms:
+
+#### No-Code Platforms (Paid)
+- **[NFT Generator Art](https://nft-generator.art/)** - User-friendly interface for creating NFT collections
+- **[Bueno.art](https://bueno.art/)** - Professional NFT creation platform with advanced features
+- **[Genfty](https://www.genfty.com/)** - Comprehensive NFT generation suite
+
+> **Note:** These platforms are no-code solutions but require payment and offer limited customization options.
+
+#### Code-Based Platform (Free)
+- **[HashLips Art Engine](https://github.com/HashLips/hashlips_art_engine)** - Open-source, customizable NFT generation tool
+
+> **Note:** HashLips is code-based, completely free, and offers extensive customization similar to Qbros generation. It's ideal for creators who want full control over their NFT generation process.
+
+---
+
 <Tabs groupID="Create a Collection">
     <TabItem value="Drop" label="Drop Collection" default>
         ## Step 1: Access Create Interface
@@ -39,8 +97,22 @@ import TabItem from '@theme/TabItem';
         Click on the collection you created and upload your assets.
 
         ![Asset Upload Interface](/img/qubicbay/Screenshot_28.png)
+        For Folder URI, copy and paste the link from the image below.
 
-        ![Asset Management](/img/qubicbay/Screenshot_29.png)
+        Use the format: `https://ipfs.io/ipfs/your_folder_CID`
+
+        **Example:** `https://ipfs.io/ipfs/bafybeidosowt325fsnmvizmfmrtgd4mldygvpoi5ntjotksosj6pu4hs2e`
+        ![Asset Upload Interface](/img/qubicbay/Screenshot_55.png)
+
+        **Important**: Ensure your IPFS folder contains:
+        - Individual NFT image files
+        - Metadata JSON files (one for each NFT) with the `image` field pointing to the correct image URL
+
+        You can check the metadata by pasting the link and clicking the `Parse` button.
+        ![Asset Upload Interface](/img/qubicbay/Screenshot_56.png)
+
+        Once successfully uploaded, you will see the following image
+        ![Asset Management](/img/qubicbay/Screenshot_57.png)
 
         ## Step 5: Collection Complete
         
